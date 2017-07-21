@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville');
+
+* {
+  margin: 0;
+}
+
+body {
+  margin: 7.5% 20%;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Libre Baskerville', serif;
+}
+
+h1 {
+  margin-bottom: 1.2em;
+  line-height: 160%;
+}
+
+p {
+  line-height: 160%;
+}
