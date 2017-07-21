@@ -1,2 +1,2 @@
-# Let's write a book
-A complete book written by random people from all around the globe.
+# Let's Write A Book
+This will be a complete book written by random people from all around the globe.
